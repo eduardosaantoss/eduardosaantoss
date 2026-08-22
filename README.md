@@ -13,7 +13,7 @@
 💻 Linguagens & Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,flask" />
+  <img src="https://skillicons.dev/icons?i=python,flask" />
 </div>
 
 ### ☁️ Cloud
