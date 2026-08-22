@@ -2,7 +2,8 @@
 
 💻 Desenvolvedor de tecnologias
 
-☁️ Explorando soluções em **Cloud Computing** e aplicações web
+☁️ Explorando soluções em **Cloud Computing**, dados e aplicações mobile.
+
 
 ---
 
