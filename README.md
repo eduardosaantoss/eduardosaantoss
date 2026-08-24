@@ -14,7 +14,7 @@
 💻 Linguagens & Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask" />
+  <img src="https://skillicons.dev/icons?i=python,flask,java" />
 </div>
 
 ### ☁️ Cloud
@@ -23,6 +23,9 @@
   <img src="https://skillicons.dev/icons?i=aws" width="50" alt="Amazon Web Services"/>
 </a>
 
+### 🗽 Infraestrutura
+
+<img src="https://skillicons.dev/icons?i=docker,git,github" />
 </div>
 
 ---
