@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor de tecnologias
 
-☁️ Explorando soluções em **Cloud Computing**, dados e aplicações mobile.
+☁️ Engenheiro de Software Back-End
 
 
 ---
@@ -14,16 +14,17 @@
 💻 Linguagens & Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,java" />
+  <img src="https://skillicons.dev/icons?i=react,python,flask,fastapi,django" />
 </div>
 
-### ☁️ Cloud
+### ☁️ Infraestrutura
 
 <a href="https://aws.amazon.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=aws" width="50" alt="Amazon Web Services"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" />
 </a>
 
-### 🗽 Infraestrutura
+### 🗽 Ferramentas
 
 <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </div>
